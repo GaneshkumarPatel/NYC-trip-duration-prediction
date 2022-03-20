@@ -1,2 +1,1 @@
-# NYC-trip-duration-prediction
-best accuracy with rf model arround 98%
+# NYC-trip-duration-predictio
