@@ -1,4 +1,4 @@
-<h1>**NYC Taxi Trip Duration**</h1>
+<h1>NYC Taxi Trip Duration</h1>
 
 New York City’s 12,779 yellow medallion taxicabs comprise a $1.8 billion industry serving about 240 million passengers a year. Information on New York’s cabs attracts a broad audience due to their central transportation role and their prominence in Manhattan traffic. Exploiting an understanding of taxi trip durations and the ability to predict taxi durations could present valuable insights to city planners and the people of New York. Hence, this problem statement is of great significance.
 
