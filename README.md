@@ -11,7 +11,11 @@ The Kaggle competition named “New York City Taxi Trip Duration” consists of 
 
 **Final Model: LightGBM model**
 
+![image](https://user-images.githubusercontent.com/66200786/165720833-34a07bfe-494a-4f8c-9301-077360f611ff.png)
+
+
 Result (Kaggle Public Leaderboard): RMSLE 0.44
+![image](https://user-images.githubusercontent.com/66200786/165720462-37753c3f-0b0a-49a5-b644-4e831494f7f6.png)
 
 
 **Team:**
