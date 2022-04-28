@@ -3,6 +3,8 @@ New York City’s 12,779 yellow medallion taxicabs comprise a $1.8 billion indus
 
 The Kaggle competition named “New York City Taxi Trip Duration” consists of the 2016 NYC Yellow Cab trip record data, which was originally published by the NYC Taxi and Limousine Commission (TLC). This competition demands us to build a model that predicts the total ride duration of taxi trips in New York City. Thus, the problem statement is defined as follows: determine best predictors of NYC taxi trip durations, and build a multivariate taxi trip duration predictor.
 
+![image](https://user-images.githubusercontent.com/66200786/165702179-2c51f77d-a062-4451-a698-bbd767a0acbf.png)
+
 
 
 **Model Performance**
@@ -12,8 +14,9 @@ Result (Kaggle Public Leaderboard): RMSLE 0.46
 
 
 **Team:**
-Ganeshkumar Patel
-Akanksha Agrawal
-Yaman Saini
-Sanjay Kumar
-Saurabh Funde
+
+1. Ganeshkumar Patel
+2. Akanksha Agrawal
+3. Yaman Saini
+4. Sanjay Kumar
+5. Saurabh Funde
