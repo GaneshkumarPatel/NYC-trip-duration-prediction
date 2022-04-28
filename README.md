@@ -8,9 +8,10 @@ The Kaggle competition named “New York City Taxi Trip Duration” consists of 
 
 
 **Model Performance**
-Final Model: LightGBM model
 
-Result (Kaggle Public Leaderboard): RMSLE 0.46
+**Final Model: LightGBM model**
+
+Result (Kaggle Public Leaderboard): RMSLE 0.44
 
 
 **Team:**
@@ -20,3 +21,13 @@ Result (Kaggle Public Leaderboard): RMSLE 0.46
 3. Yaman Saini
 4. Sanjay Kumar
 5. Saurabh Funde
+
+#**Conclusion & Future Scope:**
+
+**Conclusion:** In this project, we tried to predict the trip duration of a taxi in NYC. We took the information of pick up latitude, longitude and drop off latitude, longitude, along with some other fetures to get the distance of the trip. For our given dataset, LightGBM showed the best predictions of trip duration for a particular taxi.
+
+**Future Scope:** There's always a room for the improvement and a lot more to explore
+
+with newer feature creation,
+using some other filters than used in this notebook accuracy may get improved
+with target transformation.
