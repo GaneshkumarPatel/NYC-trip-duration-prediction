@@ -1,4 +1,5 @@
-NYC Taxi Trip Duration
+<h1>**NYC Taxi Trip Duration**</h1>
+
 New York City’s 12,779 yellow medallion taxicabs comprise a $1.8 billion industry serving about 240 million passengers a year. Information on New York’s cabs attracts a broad audience due to their central transportation role and their prominence in Manhattan traffic. Exploiting an understanding of taxi trip durations and the ability to predict taxi durations could present valuable insights to city planners and the people of New York. Hence, this problem statement is of great significance.
 
 The Kaggle competition named “New York City Taxi Trip Duration” consists of the 2016 NYC Yellow Cab trip record data, which was originally published by the NYC Taxi and Limousine Commission (TLC). This competition demands us to build a model that predicts the total ride duration of taxi trips in New York City. Thus, the problem statement is defined as follows: determine best predictors of NYC taxi trip durations, and build a multivariate taxi trip duration predictor.
@@ -7,7 +8,7 @@ The Kaggle competition named “New York City Taxi Trip Duration” consists of 
 
 
 
-**Model Performance**
+<h2>Model Performance</h2>
 
 **Final Model: LightGBM model**
 
@@ -26,7 +27,7 @@ Result (Kaggle Public Leaderboard): RMSLE 0.44
 4. Sanjay Kumar
 5. Saurabh Funde
 
-#**Conclusion & Future Scope:**
+<h2>Conclusion & Future Scope:</h2>
 
 **Conclusion:** In this project, we tried to predict the trip duration of a taxi in NYC. We took the information of pick up latitude, longitude and drop off latitude, longitude, along with some other fetures to get the distance of the trip. For our given dataset, LightGBM showed the best predictions of trip duration for a particular taxi.
 
